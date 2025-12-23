@@ -1,1 +1,1 @@
-# Upzenix
+# Upzenix Internship
