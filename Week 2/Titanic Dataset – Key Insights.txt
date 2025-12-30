@@ -1,0 +1,20 @@
+Titanic Dataset – Key Insights
+
+1. Gender Impact:
+Female passengers had a significantly higher survival rate than males, indicating priority evacuation.
+
+2. Passenger Class:
+First-class passengers survived at much higher rates than second- and third-class passengers,
+showing strong socio-economic influence on survival.
+
+3. Age Factor:
+Children and younger passengers had slightly better survival chances than older adults.
+
+4. Fare Correlation:
+Passengers who paid higher fares (proxy for class and cabin location) had better survival rates.
+
+5. Overall Insight:
+Survival was not random. It was strongly influenced by gender, socio-economic status, and partially by age.
+
+Conclusion:
+Emergency protocols and social norms (“women and children first”) clearly influenced survival outcomes.
